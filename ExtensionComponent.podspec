@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         	= "ExtensionComponent"
-  s.version      	= "1.0.3"
+  s.version      	= "1.0.4"
   s.summary      	= "A short description of ExtensionComponent."
   s.description  	= <<-DESC
   Extension component
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.homepage     	= "https://github.com/gbabucs/ExtensionComponent"
   s.license      	= "KLM"
   s.author			= { "Babu Gangatharan" => "gbabucs@gmail.com" }
-  s.source       	= { :git => "https://github.com/gbabucs/ExtensionComponent.git", :tag => "v1.0.3" }
+  s.source       	= { :git => "https://github.com/gbabucs/ExtensionComponent.git", :tag => "1.0.4" }
   s.source_files  	= "ExtensionComponent/**/*.swift"
 
   # s.requires_arc = true
